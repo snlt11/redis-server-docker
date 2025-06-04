@@ -1,6 +1,6 @@
 # Redis Docker Setup (Custom Port with Volume)
 
-This project sets up a Redis server using Docker and Docker Compose.
+This project sets up a Redis server using Docker Compose.
 
 ---
 
